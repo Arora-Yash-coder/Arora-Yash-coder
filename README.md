@@ -1,4 +1,4 @@
-# Hi there, I'm Yash - aka [Arora-Yash-Coder][youtube] 👋 
+# Hi there, I'm Yash - aka [Arora-Yash-Coder] 👋 
 
 ## I'm a Student, and Developer!!
 
