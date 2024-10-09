@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2024 Goals: Work on DSA Skills
-- ⚡ Fun fact: I love to draw play krunker in free time
+- ⚡ Fun fact: I love to play Valorant in free time
 
 ### Connect with me:
 
