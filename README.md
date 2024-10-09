@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Learn more about flutter
+- 🥅 2024 Goals: Work on DSA Skills
 - ⚡ Fun fact: I love to draw play krunker in free time
 
 ### Connect with me:
