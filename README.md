@@ -1,3 +1,5 @@
+![Alt text](relative%20cover.png?raw=true "Title")
+
 # 💫 About Me:
 🔭 I’m currently working on building ML models and polishing research projects<br>👯 I’m looking to collaborate on Data science,  small deep-learning builds<br>🤝 I’m looking for help with Optimizing training speed and better CUDA workflows.<br>🌱 I’m currently learning efficient Transformers and MLOps basics.<br>💬 Ask me about GenAI and Research Work<br>⚡ Fun fact I'm a Student
 
